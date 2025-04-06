@@ -1,2 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+databases[aiosqlite]
+pydantic[email]
+python-jose[cryptography]
+python-multipart
+passlib[bcrypt]
 celery
 redis
