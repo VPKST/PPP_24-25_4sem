@@ -9,3 +9,9 @@ python-multipart
 passlib[bcrypt]
 celery
 redis
+watchfiles
+pytest
+httpx
+pytest-asyncio
+pytest-cov
+ipython
