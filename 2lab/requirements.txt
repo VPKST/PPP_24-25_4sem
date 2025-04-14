@@ -10,6 +10,7 @@ passlib[bcrypt]
 celery
 redis
 watchfiles
+python-dotenv
 pytest
 httpx
 pytest-asyncio
